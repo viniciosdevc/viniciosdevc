@@ -1,10 +1,3 @@
-<!--
-  README do perfil GitHub
-  Repositório: viniciosdevc/viniciosdevc
-
-  Atualize apenas os links de contato marcados no código.
--->
-
 <div align="center">
 
 # Vinicius de Sousa
@@ -447,20 +440,29 @@ Valorizo soluções simples de manter, bem organizadas e adequadas à realidade 
 <div align="center">
 
 <p>
-  Entre em contato para conversar sobre projetos, oportunidades, integrações, sistemas personalizados ou possíveis parcerias.
+  Entre em contato para conversar sobre projetos, oportunidades, integrações,
+  sistemas personalizados ou possíveis parcerias.
 </p>
 
-<a href="https://viniciusp.dev">
-  <img src="https://img.shields.io/badge/Portfólio-viniciusp.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+<a href="https://viniciusp.dev" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfólio-viniciusp.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfólio"
+  >
 </a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Enviar_mensagem-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+<a href="mailto:vinicios.devv@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Enviar_mensagem-111827?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  >
 </a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://wa.me/55SEUNUMERO">
-  <img src="https://img.shields.io/badge/WhatsApp-Conversar-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
+
+<a href="https://wa.me/5519989278466" target="_blank">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-Conversar-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366"
+    alt="WhatsApp"
+  >
 </a>
 
 <br>
