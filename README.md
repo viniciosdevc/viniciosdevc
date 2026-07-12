@@ -1,109 +1,135 @@
-<h1 align="center">Vinicius de Sousa</h1>
+<!--
+  README do perfil GitHub
+  Repositório: viniciosdevc/viniciosdevc
 
-<p align="center">
-  <strong>Desenvolvedor Full-Stack especializado em Laravel, SaaS, integrações e automações.</strong>
-</p>
+  Atualize apenas os links de contato marcados no código.
+-->
 
-<p align="center">
-  Desenvolvo sistemas web, plataformas de atendimento, APIs e soluções escaláveis para problemas reais de negócios.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://viniciusp.dev">
-    <img src="https://img.shields.io/badge/Portfólio-viniciusp.dev-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contato-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+# Vinicius de Sousa
+
+### Desenvolvedor Full-Stack especializado em Laravel, SaaS, integrações e automações
+
+Desenvolvo sistemas web completos, plataformas de atendimento, APIs, produtos digitais e soluções escaláveis para operações reais de negócios.
+
+<br>
+
+<a href="https://viniciusp.dev">
+  <img src="https://img.shields.io/badge/Portfólio-viniciusp.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+</a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Entrar_em_contato-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://wa.me/55SEUNUMERO">
+  <img src="https://img.shields.io/badge/WhatsApp-Conversar-111827?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+</div>
 
 ---
 
-## Sobre mim
+## Perfil profissional
 
-Sou Desenvolvedor Full-Stack com foco principal no ecossistema PHP e Laravel.
+Sou Desenvolvedor Full-Stack com foco principal no ecossistema **PHP e Laravel**, trabalhando desde a estruturação do produto até o desenvolvimento, integração, implantação e evolução da aplicação.
 
-Trabalho na criação e manutenção de produtos SaaS, sistemas empresariais, plataformas de atendimento, APIs, integrações, automações e aplicações com comunicação em tempo real.
+Minha experiência está concentrada na criação de:
 
-Tenho experiência com projetos que envolvem:
-
-- Desenvolvimento de sistemas completos com Laravel;
-- Arquitetura de aplicações SaaS e multiempresa;
-- Sistemas de multiatendimento;
+- Produtos SaaS;
+- Sistemas empresariais;
+- Plataformas de multiatendimento;
 - Integrações com WhatsApp;
-- API Oficial da Meta;
-- Integrações não oficiais com WhatsApp Web;
-- Chatbots e inteligência artificial;
-- APIs REST e webhooks;
-- Filas e processamento assíncrono;
-- Eventos e comunicação em tempo real;
-- CRM e gestão de contatos;
-- Automações empresariais;
-- Dashboards e relatórios;
-- Controle de usuários, equipes e permissões;
-- Infraestrutura, Docker e deploy de aplicações.
+- APIs e webhooks;
+- Automações de processos;
+- Aplicações em tempo real;
+- Sistemas financeiros e administrativos;
+- Integrações entre serviços externos;
+- Estruturas com filas e processamento assíncrono;
+- Ambientes em Docker e servidores Linux.
 
-Meu objetivo é transformar processos complexos em sistemas organizados, seguros, eficientes e fáceis de utilizar.
+Trabalho com visão de produto, arquitetura, segurança, experiência do usuário e manutenção de longo prazo.
+
+Meu objetivo não é apenas entregar funcionalidades, mas construir sistemas organizados, confiáveis, escaláveis e preparados para evolução.
 
 ---
 
-## Projetos privados
+## Especialidades
 
-A maior parte dos meus projetos está armazenada em repositórios privados por questões de segurança, confidencialidade, proteção de clientes e preservação dos produtos desenvolvidos.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Entre os projetos que desenvolvo ou já desenvolvi estão:
+### Desenvolvimento de produtos
 
-- Plataforma SaaS de multiatendimento;
-- Sistema de atendimento integrado ao WhatsApp;
-- Integrações com Meta Cloud API;
-- Integrações com WhatsApp Web;
-- Chatbots com inteligência artificial;
-- CRM e gestão de contatos;
-- Sistemas financeiros;
-- Sistemas administrativos;
+- Plataformas SaaS;
+- Sistemas multiempresa;
+- Painéis administrativos;
+- Sistemas empresariais;
+- Produtos digitais;
+- Sistemas personalizados;
+- Dashboards e relatórios;
+- Gestão de usuários e permissões;
+- Fluxos financeiros e comerciais;
+- Aplicações orientadas a processos.
+
+    </td>
+    <td width="50%" valign="top">
+
+### Integrações e automações
+
+- APIs REST;
+- Webhooks;
+- Serviços externos;
 - Automações empresariais;
-- Dashboards gerenciais;
-- Integrações com serviços externos;
-- Aplicações em tempo real;
-- Produtos digitais personalizados.
+- Processamento assíncrono;
+- Filas e workers;
+- Eventos em tempo real;
+- Chatbots;
+- Inteligência artificial;
+- Integrações com WhatsApp e Meta.
 
-Demonstrações, detalhes técnicos e acessos a projetos selecionados podem ser apresentados de forma privada para recrutadores, clientes e parceiros interessados.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tecnologias principais
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=php,laravel,composer,js,ts,react,nextjs,nodejs,python,html,css,tailwind,mysql,postgres,redis,docker,linux,nginx,git,github,vscode&perline=11"
-    alt="Tecnologias utilizadas"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,html,css,tailwind,mysql,postgres,redis,docker,linux,nginx,git,github,vscode&perline=10"
+  alt="Tecnologias principais"
+/>
+
+</div>
 
 ---
 
-## Back-end
+## Back-end e arquitetura
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Composer-18181B?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
-  <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel">
+  <img src="https://img.shields.io/badge/Composer-111827?style=for-the-badge&logo=composer&logoColor=white" alt="Composer">
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
 </p>
 
-Principais conhecimentos:
+Minha principal especialidade é o desenvolvimento de aplicações com **Laravel**, incluindo:
 
-- PHP;
-- Laravel;
-- Composer;
-- Node.js;
-- Python;
+- Arquitetura de aplicações SaaS;
+- Estruturas multiempresa;
 - APIs REST;
 - Webhooks;
+- Autenticação;
+- Autorização;
+- Controle de usuários;
+- Perfis e permissões;
 - Laravel Queue;
 - Laravel Jobs;
 - Laravel Events;
@@ -111,26 +137,32 @@ Principais conhecimentos:
 - Laravel Reverb;
 - Laravel Echo;
 - WebSockets;
-- Autenticação;
-- Autorização e permissões;
-- Arquitetura multiempresa;
 - Processamento assíncrono;
-- Integrações com serviços externos;
-- Desenvolvimento de aplicações SaaS.
+- Serviços e regras de negócio;
+- Integrações com APIs externas;
+- Tratamento de concorrência;
+- Cache;
+- Logs;
+- Auditoria;
+- Segurança de aplicações;
+- Organização e manutenção de código;
+- Refatoração de sistemas existentes.
+
+Também utilizo **Node.js** e **Python** em serviços, integrações, automações, processamento de dados e aplicações complementares.
 
 ---
 
-## Front-end
+## Front-end e experiência do usuário
 
 <p>
-  <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
 </p>
 
-Principais conhecimentos:
+No front-end, trabalho com:
 
 - React;
 - Next.js;
@@ -140,151 +172,249 @@ Principais conhecimentos:
 - Tailwind CSS;
 - HTML;
 - CSS;
-- Interfaces responsivas;
 - Componentização;
+- Interfaces responsivas;
 - Design systems;
-- Experiência do usuário;
 - Temas claro e escuro;
-- Integração entre front-end e APIs.
+- Estados de carregamento;
+- Feedback visual;
+- Acessibilidade;
+- Experiência do usuário;
+- Integração com APIs;
+- Comunicação em tempo real;
+- Organização de componentes;
+- Manutenção de aplicações complexas.
+
+Busco criar interfaces limpas, profissionais, consistentes e fáceis de utilizar.
 
 ---
 
 ## WhatsApp e plataformas de atendimento
 
-Tenho experiência com desenvolvimento de soluções envolvendo:
+<p>
+  <img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/Meta_Cloud_API-111827?style=for-the-badge&logo=meta&logoColor=0866FF" alt="Meta Cloud API">
+  <img src="https://img.shields.io/badge/Baileys-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Baileys">
+  <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets">
+</p>
 
-- WhatsApp Business Platform;
+Desenvolvo e mantenho uma plataforma completa de **multiatendimento**, com recursos relacionados a:
+
+- Atendimento por múltiplos usuários;
+- Integração com WhatsApp;
+- API Oficial da Meta;
 - Meta Cloud API;
-- Webhooks da Meta;
-- Templates oficiais;
+- Integrações não oficiais;
 - Baileys;
 - WhatsApp Web;
-- Mensagens em tempo real;
-- Multiatendimento;
+- Recebimento e envio de mensagens;
+- Sincronização de conversas;
+- Identificação de contatos;
+- Histórico de atendimento;
+- Departamentos;
 - Filas de atendimento;
 - Transferência entre atendentes;
-- Departamentos;
-- Chatbots;
-- Inteligência artificial;
+- Distribuição automática;
+- Status de atendimento;
+- Controle de sessões;
+- Gestão de contatos;
 - CRM;
 - Campanhas;
 - Transmissões;
+- Templates oficiais;
+- Chatbots;
+- Inteligência artificial;
 - Automações;
-- Integrações com sistemas externos;
-- Controle de sessões;
-- Gerenciamento de contatos;
-- Histórico de conversas;
-- Gestão de equipes e permissões.
+- Webhooks;
+- Comunicação em tempo real;
+- Notificações;
+- Gestão de equipes;
+- Controle de permissões;
+- Dashboards e métricas.
+
+Tenho experiência tanto na estrutura técnica das integrações quanto nas regras de negócio envolvidas em uma operação real de atendimento.
 
 ---
 
-## Bancos de dados e processamento
+## Bancos de dados, cache e filas
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-18181B?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis">
 </p>
 
-Principais conhecimentos:
+Trabalho com:
 
 - MySQL;
 - PostgreSQL;
 - Redis;
 - Modelagem de dados;
+- Relacionamentos;
 - Migrations;
 - Seeders;
-- Relacionamentos;
 - Índices;
 - Otimização de consultas;
 - Cache;
 - Sessões;
 - Filas;
+- Workers;
 - Locks;
+- Controle de concorrência;
 - Processamento assíncrono;
-- Controle de concorrência.
+- Grandes volumes de dados;
+- Integridade de informações;
+- Organização de estruturas multiempresa;
+- Diagnóstico de gargalos;
+- Melhorias de desempenho.
 
 ---
 
 ## Infraestrutura e DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-18181B?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx">
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-Principais conhecimentos:
+Tenho experiência com:
 
 - Docker;
 - Docker Compose;
 - Linux;
-- Nginx;
 - VPS;
-- Deploy de aplicações;
-- Configuração de ambientes;
-- Workers;
-- Filas;
+- Nginx;
 - Redis;
 - MySQL;
 - PostgreSQL;
+- Configuração de ambientes;
+- Deploy de aplicações;
+- Workers;
+- Filas;
+- Processos em segundo plano;
+- Gerenciamento de serviços;
+- Logs;
+- Monitoramento;
+- Diagnóstico de falhas;
+- Permissões;
+- Variáveis de ambiente;
+- Configuração de domínios;
+- SSL;
 - Git;
 - GitHub;
-- Monitoramento de serviços;
 - Estratégias de deploy;
 - Rollback;
-- Logs e diagnóstico de erros.
+- Manutenção de servidores;
+- Isolamento de aplicações;
+- Ambientes de desenvolvimento e produção.
 
 ---
 
-## Áreas de atuação
+## Engenharia e qualidade
 
-- Desenvolvimento de plataformas SaaS;
-- Sistemas empresariais;
-- Sistemas de multiatendimento;
-- Integrações com WhatsApp;
-- Meta Cloud API;
-- APIs e webhooks;
-- Automações;
-- Chatbots;
-- Inteligência artificial;
-- CRM;
-- Sistemas financeiros;
-- Aplicações em tempo real;
-- Filas e processamento assíncrono;
-- Infraestrutura e deploy;
+Além do desenvolvimento de funcionalidades, procuro manter atenção constante em:
+
 - Arquitetura de software;
-- Segurança de aplicações;
-- Desenvolvimento de produtos digitais.
+- Separação de responsabilidades;
+- Clareza das regras de negócio;
+- Segurança;
+- Desempenho;
+- Escalabilidade;
+- Manutenibilidade;
+- Tratamento de erros;
+- Observabilidade;
+- Logs;
+- Auditoria;
+- Consistência dos dados;
+- Experiência do usuário;
+- Padronização;
+- Refatoração;
+- Documentação;
+- Continuidade do produto;
+- Redução de riscos em produção.
 
 ---
 
-## Estatísticas do GitHub
+## Produtos e soluções desenvolvidas
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=viniciosdevc&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&include_all_commits=true"
-    alt="Estatísticas do GitHub"
-  />
-</p>
+Entre os tipos de produtos e projetos nos quais trabalho estão:
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosdevc&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=8"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
+- Plataforma SaaS de multiatendimento;
+- Sistemas integrados ao WhatsApp;
+- CRM e gestão de contatos;
+- Chatbots com inteligência artificial;
+- Automações empresariais;
+- Sistemas financeiros;
+- Sistemas administrativos;
+- Painéis de gestão;
+- Dashboards gerenciais;
+- Aplicações em tempo real;
+- Sistemas multiempresa;
+- Gestão de usuários e permissões;
+- APIs;
+- Webhooks;
+- Integrações externas;
+- Plataformas personalizadas;
+- Produtos digitais;
+- Ferramentas internas;
+- Sistemas de controle operacional;
+- Soluções para prestadores de serviços;
+- Integrações entre diferentes sistemas.
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=viniciosdevc&theme=github-dark-blue&hide_border=true&locale=pt_BR"
-    alt="Sequência de contribuições"
-  />
-</p>
+---
+
+## Projetos privados
+
+A maior parte dos meus projetos está armazenada em repositórios privados.
+
+Isso acontece por questões de:
+
+- Segurança;
+- Confidencialidade;
+- Proteção de clientes;
+- Preservação de produtos comerciais;
+- Proteção de regras de negócio;
+- Proteção de integrações;
+- Segurança de infraestrutura;
+- Privacidade de dados.
+
+Por esse motivo, a quantidade de repositórios públicos não representa o volume real do meu trabalho, minha experiência ou os sistemas que desenvolvo.
+
+Para oportunidades profissionais ou comerciais, posso apresentar de forma privada:
+
+- Demonstrações;
+- Arquiteturas;
+- Fluxos;
+- Interfaces;
+- Decisões técnicas;
+- Estruturas de sistemas;
+- Projetos selecionados;
+- Resultados;
+- Funcionalidades desenvolvidas.
+
+O acesso é compartilhado apenas quando adequado e sem comprometer informações sensíveis, clientes ou produtos.
+
+---
+
+## Como trabalho
+
+Procuro conduzir cada projeto com uma visão completa, considerando:
+
+1. Entendimento do problema;
+2. Definição das regras de negócio;
+3. Estruturação da solução;
+4. Planejamento técnico;
+5. Desenvolvimento;
+6. Integração;
+7. Testes;
+8. Implantação;
+9. Monitoramento;
+10. Evolução contínua.
+
+Valorizo soluções simples de manter, bem organizadas e adequadas à realidade do produto.
 
 ---
 
@@ -292,36 +422,50 @@ Principais conhecimentos:
 
 - Desenvolvimento de sistemas personalizados;
 - Projetos freelancer;
-- Desenvolvimento de produtos SaaS;
+- Produtos SaaS;
+- Sistemas empresariais;
+- Plataformas de atendimento;
 - Integrações com WhatsApp;
-- Integrações com APIs;
-- Automações empresariais;
+- Integrações com Meta Cloud API;
+- APIs e webhooks;
+- Automações;
+- Chatbots;
+- Inteligência artificial;
 - Desenvolvimento Laravel;
+- Desenvolvimento Full-Stack;
+- Manutenção de sistemas;
+- Refatoração;
+- Evolução de produtos existentes;
+- Consultoria técnica;
 - Parcerias em produtos digitais;
-- Oportunidades como Desenvolvedor Full-Stack;
-- Manutenção e evolução de sistemas existentes.
+- Oportunidades remotas.
 
 ---
 
 ## Contato
 
-<p align="center">
-  <a href="https://viniciusp.dev">
-    <img src="https://img.shields.io/badge/Portfólio-viniciusp.dev-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Enviar_mensagem-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/55SEUNUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-Conversar-18181B?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
-  </a>
+<div align="center">
+
+<p>
+  Entre em contato para conversar sobre projetos, oportunidades, integrações, sistemas personalizados ou possíveis parcerias.
 </p>
 
----
+<a href="https://viniciusp.dev">
+  <img src="https://img.shields.io/badge/Portfólio-viniciusp.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+</a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Enviar_mensagem-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://wa.me/55SEUNUMERO">
+  <img src="https://img.shields.io/badge/WhatsApp-Conversar-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
+</a>
 
-<p align="center">
-  Desenvolvimento de sistemas, produtos e integrações que transformam problemas reais em soluções eficientes.
-</p>
+<br>
+<br>
+
+Desenvolvimento de sistemas, produtos e integrações que transformam problemas reais em soluções eficientes.
+
+</div>
