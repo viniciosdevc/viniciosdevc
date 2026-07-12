@@ -8,17 +8,25 @@ Desenvolvo sistemas web completos, plataformas de atendimento, APIs, produtos di
 
 <br>
 
-<a href="https://viniciusp.dev">
-  <img src="https://img.shields.io/badge/Portfólio-viniciusp.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+<a href="https://viniciusp.dev" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfólio-viniciusp.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfólio"
+  >
 </a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Entrar_em_contato-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+<a href="mailto:vinicios.devv@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Entrar_em_contato-111827?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  >
 </a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://wa.me/55SEUNUMERO">
-  <img src="https://img.shields.io/badge/WhatsApp-Conversar-111827?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+
+<a href="https://wa.me/5519989278466" target="_blank">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-Conversar-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366"
+    alt="WhatsApp"
+  >
 </a>
 
 </div>
